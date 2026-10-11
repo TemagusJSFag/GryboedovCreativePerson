@@ -178,7 +178,7 @@ hr {
 
 #gore-ot-uma-img {
     flex-shrink: 0;
-    height: 300px;
+    height: 400px;
     width: clamp(280px, 300px, 360px);
     object-fit: cover;
     border-radius: 14px;
